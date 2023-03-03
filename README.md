@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 | - Kwabena-s-Azubi-s-project_week-Five            |  -  This is an Azubi Africa DAP project I worked on in Week 5.           | https://github.com/kwabenaboateng/Kwabena-s-Azubi-s-project_week-Five.git |
+| 1 | - Kwabena-s-Azubi-s-project_week-Five            |  - This is an Azubi Africa DAP project I worked on in Week 5.           | https://github.com/kwabenaboateng/Kwabena-s-Azubi-s-project_week-Five.git |
 | 2 | - Kwabena-s-Azubi-s-project_week-3             |  - This is my first Power BI project after enrolling on the Data Analytics Program with Azubi Africa.            | https://github.com/kwabenaboateng/Kwabena-s-Azubi-s-project_week-3.git|
 | 3 |- -Kwabena-Azubi-project_week2        |  - This is my second assignment with Microsoft Excel with Azubi Africa DAP            | https://github.com/kwabenaboateng/-Kwabena-Azubi-project_week2.git      |
 
